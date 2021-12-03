@@ -1,0 +1,24 @@
+.taskDate {
+    width: 120px;
+    text-align: center;
+}
+
+.taskCompleted{
+    width: 65px;
+    text-align: center;
+}
+
+.status, .date{
+    text-align: center;
+}
+
+.lineThrough{
+    text-decoration: line-through;
+    color: #79797980;
+}
+
+.noCategory{
+    /*font-style: italic;*/
+    font-weight: bold;
+    color: #79797980;
+}
